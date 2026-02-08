@@ -2,8 +2,6 @@ from flask import Flask, render_template
 
 app = Flask(__name__)
 
-
-
 '''
 # Routing for your application.
 # Put your routes below this comment
