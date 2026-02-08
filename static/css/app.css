@@ -8,3 +8,24 @@ body {
   max-width: 960px;
   margin: 0 auto;
 }
+
+#about-name {
+  margin-top: 20px;
+  color: #b80c0c;
+  padding: 20px; /* spacing inside the box */ 
+  font-family: Arial, sans-serif;
+}
+
+#about-description {
+  margin-top: 15px;
+  color: #2e2c2c;
+  padding: 10px; /* spacing inside the box */ 
+  font-family: Arial, sans-serif;
+}
+
+#about-image {
+  margin-top: px;
+  max-width: 50%;
+  height: auto;
+  border-radius: 50px; /* rounded corners */
+}
